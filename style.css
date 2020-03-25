@@ -1,0 +1,6 @@
+#scacchi{
+	color: green;
+	background-color: rgba(108, 68, 107, 0.4);
+	display: flex;
+	justify-content: center;
+}
